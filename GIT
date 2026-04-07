@@ -2,3 +2,12 @@ gh repo create my-project --public --clone
 gh repo list
 git branch -m master main [Rename]
 git branch [View]
+
+
+[ABOUT MY COMMIT]
+git log --oneline
+git show f9c84ee(commit id)
+
+
+
+
